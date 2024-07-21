@@ -1,0 +1,14 @@
+C:\Users\Yuri\Desktop\C#\Contagem\bin\Debug\net8.0\Contagem.exe
+C:\Users\Yuri\Desktop\C#\Contagem\bin\Debug\net8.0\Contagem.deps.json
+C:\Users\Yuri\Desktop\C#\Contagem\bin\Debug\net8.0\Contagem.runtimeconfig.json
+C:\Users\Yuri\Desktop\C#\Contagem\bin\Debug\net8.0\Contagem.dll
+C:\Users\Yuri\Desktop\C#\Contagem\bin\Debug\net8.0\Contagem.pdb
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.dll
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\refint\Contagem.dll
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.pdb
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\Contagem.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\C#\Contagem\obj\Debug\net8.0\ref\Contagem.dll
